@@ -10,7 +10,7 @@
 1. [Bartlakowski Michał](https://github.com/Em-jey/JProg.git)
 1. Monika Barzowska
 1. [Bienias Jan](https://github.com/Hergroth/C)
-2. [Bieńkowski Miłosz](https://github.com/milekb/Laboratorium-2016-2017.git)
+1. [Bieńkowski Miłosz](https://github.com/milekb/Laboratorium-2016-2017.git)
 1. [Borawski Krzysztof](https://github.com/Msegun/labc01.git)
 1. [Cimochowski Szymon](https://github.com/realokers/Laboratorium2016.git)
 1. [Cwalina Łukasz](https://github.com/lcwalina/JProg)
