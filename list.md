@@ -35,6 +35,7 @@ TODO:
 1. [Bartlakowski Michał](https://github.com/Em-jey/JProg.git) 18.03 15.04
 1. [Barzowska Monika](https://github.com/gitmika/jprog.git) 18.03 L5,2
 1. [Bienias Jan](https://github.com/Hergroth/C) 1.04
+1. [Bieńkowski Miłosz](https://github.com/milekb/Laboratorium-2016-2017.git) 11.03 18.03 1.04
 1. [Błaszkiewicz Rafał](https://github.com/blaszczek/RepoLaby) 4.03 18.03 L5,2
 1. [Blumski Bartłomiej](https://github.com/BatlomBlu/Laboratorium-2016-2017) 15.04 22.04
 1. [Borawski Krzysztof](https://github.com/Msegun/labc01.git)
